@@ -20,18 +20,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Random Map.unity
     guid: 4d82218651515d6438582d9e50bf8488
-  - enabled: 0
-    path: 
-    guid: b92a9c6813da26949aab50252e4520b5
-  - enabled: 0
-    path: 
-    guid: 9b25789f93b23eb44b31c0411245f656
-  - enabled: 0
-    path: 
-    guid: 54fb166c13a61ec4f8c02cdde019de1b
   - enabled: 1
     path: Assets/Scenes/Classical Era.unity
     guid: bca6bc5b19098724e981465ceb9b314f
   - enabled: 1
     path: Assets/Scenes/Modern Era.unity
     guid: 06fbde2993e992346bc7e13fcc27792c
+  - enabled: 1
+    path: Assets/Scenes/Random Map Prehistoric.unity
+    guid: 5f1f2a731f71b1f4093d5b3803b2de36
+  - enabled: 1
+    path: Assets/Scenes/Random Map Classical.unity
+    guid: 6c3b23ae42b5c4b4a8c62a5085456a0c
+  - enabled: 1
+    path: Assets/Scenes/Random Map Modern.unity
+    guid: 346b3d54e44e20c4ea0e6ddea62fa657
