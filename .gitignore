@@ -1,47 +1,45 @@
 # =============== #
 # Unity generated #
 # =============== #
-/*.apk
-/*.stackdump
-/*.unitypackage
-/[Aa]ssets/AssetStoreTools*
-/[Bb]uild
-/[Bb]uilds/
-/[Ll]ibrary/
-/[Ll]ocal[Cc]ache/
-/[Oo]bj/
-/[Tt]emp/
-/sysinfo.txt
-
-
+/gameFolder/BassDefense/[Tt]emp/
+/gameFolder/BassDefense/[Oo]bj/
+/gameFolder/BassDefense/[Bb]uild
+/gameFolder/BassDefense/[Bb]uilds/
+/gameFolder/BassDefense/[Ll]ibrary/
+/gameFolder/BassDefense/sysinfo.txt
+*.stackdump
+/gameFolder/BassDefense/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+ 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-/*.booproj
-/*.csproj
-/*.pidb
-/*.pidb.meta
-/*.sln*
-/*.suo
-/*.svd
-/*.tmp
-/*.unityproj
-/*.user
-/*.userprefs
-/.consulo/
-/.vs/
-/[Ee]xported[Oo]bj/
-
+/gameFolder/BassDefense/[Ee]xported[Oo]bj/
+/gameFolder/BassDefense/.vs/
+/gameFolder/BassDefense/*.userprefs
+/gameFolder/BassDefense/*.csproj
+/gameFolder/BassDefense/*.pidb
+/gameFolder/BassDefense/*.pidb.meta
+/gameFolder/BassDefense/*.suo
+/gameFolder/BassDefense/*.sln*
+/gameFolder/BassDefense/*.user
+/gameFolder/BassDefense/*.unityproj
+/gameFolder/BassDefense/*.booproj
+/gameFolder/BassDefense/.consulo/
+/gameFolder/BassDefense/*.tmp
+/gameFolder/BassDefense/*.svd
+ 
 # ============ #
 # OS generated #
 # ============ #
-/._*
-/.DS_Store*
-/.Spotlight-V100
-/.Trashes
-/[Dd]esktop.ini
-/[Tt]humbs.db
-/Corridor/Library/metadata/
-/Corridor/Library/ShaderCache/
-/ehthumbs.db
-/Icon?
+/gameFolder/BassDefense/.DS_Store*
+/gameFolder/BassDefense/._*
+/gameFolder/BassDefense/.Spotlight-V100
+/gameFolder/BassDefense/.Trashes
+/gameFolder/BassDefense/Icon?
+/gameFolder/BassDefense/ehthumbs.db
+/gameFolder/BassDefense/[Tt]humbs.db
+/gameFolder/BassDefense/[Dd]esktop.ini
+/gameFolder/BassDefense/Corridor/Library/ShaderCache/
+/gameFolder/BassDefense/Corridor/Library/metadata/
