@@ -59,7 +59,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.99990237, y: 0.99990237}
     newSize: {x: 0.94814813, y: 0.94814813}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -95,14 +95,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 840e610eb04ff4d4bbb0a7c4fb5db2ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 114765176845256748, guid: 6983228fc921eb342b6b7ba3f566dbed,
-    type: 2}
-  spawnTimes:
-  - 5
-  - 4
-  - 3
-  - 2
-  - 1
 --- !u!212 &212343245688346126
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -116,7 +108,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a1704e4efead6f545a61a1a279531557, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
